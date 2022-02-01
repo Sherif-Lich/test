@@ -1,3 +1,4 @@
 msg = "test"
 msg2 ="test 2"
-print(msg)
+print(msg," ",msg2)
+
